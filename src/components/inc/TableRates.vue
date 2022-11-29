@@ -38,6 +38,7 @@ export default defineComponent({
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    min-height: 60px;
     &__item {
         min-width: 50%;
         display: flex;

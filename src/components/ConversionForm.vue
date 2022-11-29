@@ -116,6 +116,7 @@ export default defineComponent({
             font-size: 15px;
             line-height: 150%;
             color: white;
+            min-height: 60px;
             &[disabled] {
                 background: rgba(#252525, 0.6);
             }

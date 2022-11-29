@@ -105,5 +105,6 @@ export default defineComponent({
     &::placeholder {
         color: white !important;
     }
+    min-height: 60px;
 }
 </style>
