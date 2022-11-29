@@ -160,7 +160,7 @@ export default defineComponent({
             }
         }
         &__list {
-            max-height: 110px;
+            max-height: 112px;
             padding: 0 14px;
         }
         &__item {
